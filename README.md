@@ -22,7 +22,7 @@ XandyX, Windows yazılımlarını saniyeler içinde, sıfır müdahale ve maksim
 
 </div>
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%2520Bulb.png" width="25" /> ✨ Temel Özellikler
+ ✨ Temel Özellikler
 
 <table width="100%">
 <tr>
@@ -46,46 +46,21 @@ Plus Jakarta Sans fontu ve Bento Grid estetiği ile kullanıcı dostu bir deneyi
 </td>
 </tr>
 </table>
-
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%2520with%2520Flash.png" width="25" /> 📸 Ekran Görüntüleri
-
+<div align="center">
+<a href="https://ibb.co/JWgQ0L96"><img src="https://i.ibb.co/dsxg19RC/Ekran-g-r-nt-s-2026-01-28-193322.png" alt="Ekran-g-r-nt-s-2026-01-28-193322" border="0"></a>
+  <div> </div>
+<a href="https://ibb.co/YBSPBmrL"><img src="https://i.ibb.co/TMGYM6Cg/Ekran-g-r-nt-s-2026-01-28-193331.png" alt="Ekran-g-r-nt-s-2026-01-28-193331" border="0"></a>
+</div>
 <div align="center">
 <br />
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/kullaniciadi/xandyx/main/preview.png" width="100%" alt="XandyX Preview" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 <p><i>Modern Bento Grid yapısına sahip web arayüzümüzden bir kesit.</i></p>
 </div>
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> 🛠 Teknik Detaylar
+ 
 
-<div align="center">
 
-Özellik
-
-Açıklama
-
-Geliştirme Yılı
-
-2026
-
-Desteklenen OS
-
-Windows 10 / 11 (x64)
-
-Dosya Boyutu
-
-~450 MB
-
-Dosya Adı
-
-XandyX_Katilimsiz.exe
-
-Mimari
-
-.NET Framework 4.8+
-
-</div>
-
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%2520Tray.png" width="25" /> 📥 İndirme ve Kurulum
+ 📥 İndirme ve Kurulum
 
 
 Projenin en son sürümünü kullanmak için aşağıdaki adımları takip edin.
@@ -96,7 +71,7 @@ Projenin en son sürümünü kullanmak için aşağıdaki adımları takip edin.
 
 Keyfini Çıkar: İstediğiniz programları işaretleyin, başlatın ve arkanıza yaslanın.
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="25" /> 🛡️ Güvenlik ve Şeffaflık
+ 🛡️ Güvenlik ve Şeffaflık
 
 VirusTotal: Tüm paketler düzenli olarak taranmakta ve sonuçlar paylaşılmaktadır.
 
