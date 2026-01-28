@@ -3,7 +3,7 @@
 <!-- Header Section -->
 
 <br />
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/kullaniciadi/xandyx/main/X.ico" width="120" alt="XandyX Logo" />
+<img src="https://i.ibb.co/pjHVH1Jj/X.png" width="120" alt="XandyX Logo" />
 
 <font face="Plus Jakarta Sans">🚀 XandyX</font>
 
