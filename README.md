@@ -14,9 +14,9 @@
 XandyX, Windows yazılımlarını saniyeler içinde, sıfır müdahale ve maksimum optimizasyon ile kuran hibrit bir çözüm platformudur.
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://xandyx.blogspot.com"><b>🌐 Web Sitesi</b></a> •
+<a href="https://byxandyx.rf.gd"><b>🌐 Web Sitesi</b></a> •
 <a href="#-indirme-ve-kurulum"><b>📦 İndir</b></a> •
-<a href="#-temel-özellikler"><b>🛠 Özellikler</b></a> •
+<a href="https://byxandyx.rf.gd"><b>🛠 Özellikler</b></a> •
 <a href="https://www.google.com/search?q=https://github.com/kullaniciadi/xandyx/issues"><b>🤝 Katkıda Bulun</b></a>
 </p>
 
