@@ -15,7 +15,7 @@ XandyX, Windows yazılımlarını saniyeler içinde, sıfır müdahale ve maksim
 
 <p align="center">
 <a href="https://byxandyx.rf.gd"><b>🌐 Web Sitesi</b></a> •
-<a href="#-indirme-ve-kurulum"><b>📦 İndir</b></a> •
+<a href="https://github.com/baykurt12523041/XandyX-Kat-l-ms-z-Program-ndirme-Uygulamas-/releases"><b>📦 İndir</b></a> •
 <a href="https://byxandyx.rf.gd"><b>🛠 Özellikler</b></a> •
 <a href="https://www.google.com/search?q=https://github.com/kullaniciadi/xandyx/issues"><b>🤝 Katkıda Bulun</b></a>
 </p>
